@@ -1,23 +1,24 @@
 # Hi, I'm Davvik.
 
-I’m a **Fullstack Developer & R&D Engineer** specializing in high-performance web applications and AI-driven data systems. I build tools that turn massive amounts of raw data into searchable, actionable insights.
+I’m a **Fullstack Developer & R&D Engineer** with a focus on building scalable web applications and high-performance digital solutions. From sleek landing pages to complex data-heavy systems, I build tools that work flawlessly.
 
 ---
 
 ### 🚀 What I do
-**AI & Search**
-Building vector-based search engines and embedding-driven systems capable of handling hundreds of thousands of data points with ease.
 
-**Fullstack Web**
-Crafting everything from high-conversion websites to complex, custom-built CRM systems using **Next.js**, **React**, and **Prisma**.
+**Fullstack Development**
+Creating everything from high-conversion websites and landing pages to robust, custom-built **CRM systems** and enterprise dashboards using **Next.js**, **React**, and **Prisma**.
 
 **Telegram Ecosystem**
-Developing advanced bots and integrated Mini Apps (TMAs) that bridge the gap between messaging and full-scale applications.
+Designing advanced bots and **Telegram Mini Apps (TMAs)**. I transform simple chats into fully functional cross-platform applications with seamless user experiences.
+
+**AI & Smart Systems**
+Integrating AI to solve real-world problems. I build vector-based search engines and **embedding-driven systems** capable of processing and searching through hundreds of thousands of data points.
 
 ---
 
 ### 🧠 The Approach
-I focus on **architectural efficiency**. My workflow is heavily integrated with AI tools, allowing me to skip the boilerplate and focus on solving complex logic and optimizing system performance.
+I don't just write code; I design systems. My workflow is heavily optimized with AI tools, allowing me to focus on high-level architecture, performance, and clean logic. Whether it's a simple bot or a massive database, I ensure it's built to scale.
 
 ---
 
