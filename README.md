@@ -1,6 +1,6 @@
 # Hi, I'm Davvik.
 
-I’m a **Fullstack Developer & R&D Engineer** with a focus on building scalable web applications and high-performance digital solutions. From sleek landing pages to complex data-heavy systems, I build tools that work flawlessly.
+I’m a **Fullstack Developer & R&D Engineer** with a focus on building scalable web applications and high-performance digital solutions. From sleek landing pages to complex data-heavy systems.
 
 ---
 
@@ -18,7 +18,7 @@ Integrating AI to solve real-world problems. I build vector-based search engines
 ---
 
 ### 🧠 The Approach
-I don't just write code; I design systems. My workflow is heavily optimized with AI tools, allowing me to focus on high-level architecture, performance, and clean logic. Whether it's a simple bot or a massive database, I ensure it's built to scale.
+My workflow is heavily optimized with AI tools, allowing me to focus on high-level architecture, performance, and clean logic. Whether it's a simple bot or a massive database, I ensure it's built to scale.
 
 ---
 
