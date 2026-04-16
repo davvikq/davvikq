@@ -20,15 +20,18 @@ I focus on **architectural efficiency**. My workflow is heavily integrated with 
 
 ---
 
-### 📊 Stats & Activity
+### 🛠 Tech Stack & Tools
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=davvikq&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davvikq&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7" height="150" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,nodejs,prisma,postgres,docker,linux,tailwind,figma,github" />
 </p>
 
 ---
 
+### 📈 Activity
+*Currently focusing on private R&D projects and internal enterprise systems. Public contributions coming soon.*
+
+---
+
 <p align="center">
-  <a href="https://t.me/your_username">Telegram</a> • 
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://t.me/fronsx">Telegram</a> • 
 </p>
