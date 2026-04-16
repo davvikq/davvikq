@@ -5,15 +5,16 @@ I’m a **Fullstack Developer & R&D Engineer** specializing in high-performance 
 ---
 
 ### 🚀 What I do
-* **AI & Search:** Building vector-based search engines and embedding-driven systems capable of handling hundreds of thousands of data points with ease.
-* **Fullstack Web:** Crafting everything from high-conversion websites to complex, custom-built CRM systems using **Next.js**, **React**, and **Prisma**.
-* **Telegram Ecosystem:** Developing advanced bots and integrated Mini Apps (TMAs) that bridge the gap between messaging and full-scale applications.
+**AI & Search**
+Building vector-based search engines and embedding-driven systems capable of handling hundreds of thousands of data points with ease.
 
-### 🛠 The Stack
-* **Languages:** TypeScript, JavaScript, Python.
-* **Frameworks:** Next.js, React, Node.js.
-* **Database:** Prisma ORM, PostgreSQL.
-* **Architecture:** Scalable systems, API design, and AI integration.
+**Fullstack Web**
+Crafting everything from high-conversion websites to complex, custom-built CRM systems using **Next.js**, **React**, and **Prisma**.
+
+**Telegram Ecosystem**
+Developing advanced bots and integrated Mini Apps (TMAs) that bridge the gap between messaging and full-scale applications.
+
+---
 
 ### 🧠 The Approach
 I focus on **architectural efficiency**. My workflow is heavily integrated with AI tools, allowing me to skip the boilerplate and focus on solving complex logic and optimizing system performance.
@@ -32,6 +33,8 @@ I focus on **architectural efficiency**. My workflow is heavily integrated with 
 
 ---
 
-<p align="center">
-  <a href="https://t.me/fronsx">Telegram</a> • 
+<p align="left">
+  <a href="https://t.me/fronsx">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
