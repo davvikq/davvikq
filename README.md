@@ -1,4 +1,4 @@
-# Hi, I'm Davvik.
+# Hi, I'm davvik.
 
 I’m a **Fullstack Developer & R&D Engineer** with a focus on building scalable web applications and high-performance digital solutions. From sleek landing pages to complex data-heavy systems.
 
