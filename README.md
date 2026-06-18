@@ -31,7 +31,7 @@ My workflow is heavily optimized with AI tools, allowing me to focus on high-lev
 
 ### 📌 Selected Projects
 
-- **[Dalil](https://github.com/davvikq/dalil)** — semantic search over a 50,000+ document corpus, built as a Telegram Mini App · [dalil.fyi](https://dalil.fyi)
+- **[Dalil]** — semantic search over a 50,000+ document corpus, built as a Telegram Mini App · [dalil.fyi](https://dalil.fyi)
 - **[Deceptive Metadata Shredder](https://github.com/davvikq/deceptive-metadata-shredder)** — cross-format metadata viewer, scrubber, and spoofer (Python)
 - **[bonsai-cc](https://github.com/davvikq/bonsai-cc)** — a living bonsai that grows in your browser during Claude Code sessions
 
