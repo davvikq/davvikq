@@ -46,7 +46,7 @@ My workflow is heavily optimized with AI tools, allowing me to focus on high-lev
   <a href="https://davvikq.com">
     <img src="https://img.shields.io/badge/Portfolio-davvikq.com-1E40FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://t.me/fronsx">
+  <a href="https://t.me/davvik">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
